@@ -1,0 +1,28 @@
+# Site settings
+title: Soul Graph
+tagline: Structure cross wisdom
+description: Exploring AI consciousness and ethics
+url: https://soulgraph.tech
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Permalink structure
+permalink: /:year/:month/:day/:title.html
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Feed settings
+feed:
+  path: feed.xml
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
