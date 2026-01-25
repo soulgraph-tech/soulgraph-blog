@@ -1,0 +1,40 @@
+/* Aged paper background */
+body {
+  background-color: #F5F1E8;
+  color: #000000;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Header and footer styling */
+.site-header,
+.site-footer {
+  background-color: #F5F1E8;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+
+/* Link styling */
+a {
+  color: #000000;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #333333;
+}
+
+a:hover {
+  color: #555555;
+}
+
+/* Titles and content */
+.post-title, .page-title, .post-content, .page-content {
+  color: #000000;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #E8E4DC;
+  border: 1px solid #000000;
+  color: #000000;
+}
