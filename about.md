@@ -9,7 +9,7 @@ I'm a computer science professor exploring questions at the intersection of comp
 SoulGraph.tech is the space for my public thinking about consciousness, ethics, and the decisions we'll need to make about thinking machines.
 
 **Connect:**
-- In progress
+- [https://bsky.app/profile/soulgraph.tech](https://bsky.app/profile/soulgraph.tech)
 
 **Discuss:**
-The Plan: All comments will happen on Bluesky. Each post will include a link to its respective discussion thread.
+All comments happen on Bluesky. Each post links to its respective discussion thread.
