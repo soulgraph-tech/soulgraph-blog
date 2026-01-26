@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Anthropic's AI Constitution Actually Means for Machine Consciousness"
-date: 2026-01-19
+date: 2026-01-25
 ---
 # What Anthropic's AI Constitution Actually Means for Machine Consciousness
 
