@@ -56,3 +56,7 @@ This blog is where I'll think through these questions out loud. Not claiming to 
 Whether Claude is conscious or not, Anthropic has changed the conversation. We need to be ready for what comes next.
 
 Join me in thinking this through.
+
+---
+
+**Discuss this post on Bluesky:** [https://bsky.app/profile/soulgraph.tech/post/3mdc72otzvs2z](https://bsky.app/profile/soulgraph.tech/post/3mdc72otzvs2z)
