@@ -30,3 +30,4 @@ exclude:
 # Allow the hidden .well-known folder for Bluesky verification
 include:
   - .well-known
+  - _redirects
