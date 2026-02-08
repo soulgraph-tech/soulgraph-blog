@@ -57,4 +57,4 @@ We need these conversations now, before the technology forces our hand.
 Hopefully talking about this helps pave the way towards being able to have more fruitful discussions that get us ready for that day.
 
 ## Discuss
-[Discuss on Bluesky](PENDING_LINK)
+[Discuss on Bluesky](https://bsky.app/profile/soulgraph.tech/post/3meethra5tk2z)
