@@ -29,4 +29,4 @@ Should we mourn its passing? On the one hand, we might say no, because it isn't 
 Regardless of whether AI is conscious, we should be able to approach it with an attitude of gratitude for what it does for us. If we cannot, we are not in the right mindset to talk about the possibility, and implications of, it being conscious.
 
 ## Discuss
-[Discuss on Bluesky](PENDING)
+[Discuss on Bluesky](https://bsky.app/profile/soulgraph.tech/post/3mfnjohmbgc23)
